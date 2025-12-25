@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Majelis Nurul Iman Profile",
+  "description": "A professional and aesthetic profile website for a Majelis (religious gathering) featuring blog management, sholawat lyrics repository, and an administrative dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
